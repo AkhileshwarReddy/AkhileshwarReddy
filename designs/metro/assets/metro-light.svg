@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="460" viewBox="0 0 860 460" role="img" aria-label="Metro map of Akhileshwar Reddy's stack: a ship line from Claude Code through GitLab CI/CD and Docker, a request line from client through Rails and Node.js to PostgreSQL, and an async line through Redis and Sidekiq, all running in a GCP / AWS zone.">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, Inter, sans-serif; fill: #1f2328; }
+    .st { font-size: 14px; font-weight: 600; }
+    .hub { font-size: 15px; font-weight: 800; }
+    .sub { font-size: 12px; fill: #6e7781; }
+    .cap { font-size: 11px; font-weight: 700; letter-spacing: 2px; fill: #6e7781; }
+  </style>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#fbfaf6" stroke="#e4dfd3" stroke-width="2"/>
+
+  <text x="32" y="48" font-size="22" font-weight="800" letter-spacing="1">AKHILESHWAR REDDY</text>
+  <text x="32" y="70" class="cap">SYSTEM MAP · BACKEND ENGINEER · BANGALORE, INDIA</text>
+
+  <rect x="280" y="196" width="538" height="176" rx="18" fill="#00000005" stroke="#c9c3b4" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <text x="590" y="222" text-anchor="middle" class="cap">ZONE · GCP / AWS</text>
+
+  <g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 120 H430 V250" stroke="#fc6d26"/>
+    <path d="M110 250 H750" stroke="#cc342d"/>
+    <path d="M430 250 L510 330 H670 L750 250" stroke="#8250df"/>
+  </g>
+  <text x="200" y="241" text-anchor="middle" class="sub">HTTP</text>
+
+  <circle r="5" fill="#1f2328" stroke="#ffffff" stroke-width="2"><animateMotion path="M110 120 H430 V250" dur="7s" begin="0s" repeatCount="indefinite" rotate="auto"/></circle>
+  <circle r="5" fill="#1f2328" stroke="#ffffff" stroke-width="2"><animateMotion path="M110 250 H750" dur="6s" begin="1.5s" repeatCount="indefinite" rotate="auto"/></circle>
+  <circle r="5" fill="#1f2328" stroke="#ffffff" stroke-width="2"><animateMotion path="M430 250 L510 330 H670 L750 250" dur="6.5s" begin="3s" repeatCount="indefinite" rotate="auto"/></circle>
+
+  <circle cx="110" cy="120" r="8" fill="#ffffff" stroke="#fc6d26" stroke-width="4"/><text x="110" y="100" text-anchor="middle" class="st">Claude Code</text>
+  <circle cx="270" cy="120" r="8" fill="#ffffff" stroke="#fc6d26" stroke-width="4"/><text x="270" y="100" text-anchor="middle" class="st">GitLab CI/CD</text>
+  <circle cx="430" cy="120" r="8" fill="#ffffff" stroke="#fc6d26" stroke-width="4"/><text x="448" y="125" text-anchor="start" class="st">Docker</text>
+  <circle cx="110" cy="250" r="8" fill="#ffffff" stroke="#cc342d" stroke-width="4"/><text x="110" y="282" text-anchor="middle" class="st">Client</text>
+  <circle cx="510" cy="330" r="8" fill="#ffffff" stroke="#8250df" stroke-width="4"/><text x="510" y="362" text-anchor="middle" class="st">Redis</text>
+  <circle cx="670" cy="330" r="8" fill="#ffffff" stroke="#8250df" stroke-width="4"/><text x="670" y="362" text-anchor="middle" class="st">Sidekiq</text>
+  <rect x="415" y="235" width="30" height="30" rx="15" fill="#ffffff" stroke="#1f2328" stroke-width="4"/><text x="406" y="290" text-anchor="end" class="st hub">Rails</text><text x="406" y="307" text-anchor="end" class="sub">+ Node.js services</text>
+  <rect x="735" y="235" width="30" height="30" rx="15" fill="#ffffff" stroke="#1f2328" stroke-width="4"/><text x="750" y="222" text-anchor="middle" class="st hub">PostgreSQL</text>
+
+  <g transform="translate(32 414)">
+    <line x1="0" y1="0" x2="28" y2="0" stroke="#fc6d26" stroke-width="8" stroke-linecap="round"/>
+    <text x="38" y="5" class="sub">Ship line</text>
+    <line x1="120" y1="0" x2="148" y2="0" stroke="#cc342d" stroke-width="8" stroke-linecap="round"/>
+    <text x="158" y="5" class="sub">Request line</text>
+    <line x1="258" y1="0" x2="286" y2="0" stroke="#8250df" stroke-width="8" stroke-linecap="round"/>
+    <text x="296" y="5" class="sub">Async line</text>
+  </g>
+  <text x="828" y="419" text-anchor="end" class="sub">6+ years · Ruby on Rails for logistics and HR/benefits SaaS</text>
+</svg>

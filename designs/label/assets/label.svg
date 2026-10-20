@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="440" viewBox="0 0 860 440" role="img" aria-label="Shipping label: Akhileshwar Reddy, backend engineer, Bangalore, India">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, Inter, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'JetBrains Mono', monospace; }
+    .cap { font: 700 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, Inter, sans-serif; letter-spacing: 2px; fill: #6e7781; }
+    .stamp { transform-box: fill-box; transform-origin: center; opacity: 0;
+             animation: thump .7s cubic-bezier(.2,.9,.3,1.2) .8s forwards; }
+    @keyframes thump {
+      0%   { opacity: 0;   transform: rotate(-12deg) scale(1.8); }
+      70%  { opacity: .9;  transform: rotate(-12deg) scale(.94); }
+      100% { opacity: .85; transform: rotate(-12deg) scale(1); }
+    }
+  </style>
+  <rect x="1.5" y="1.5" width="857" height="437" rx="14" fill="#fffdf7" stroke="#1f2328" stroke-width="3"/>
+
+  <!-- header band -->
+  <path d="M1.5 70 V15.5 a14 14 0 0 1 14 -14 H844.5 a14 14 0 0 1 14 14 V70 Z" fill="#1f2328"/>
+  <text x="28" y="47" class="sans" font-size="28" font-weight="800" letter-spacing="6" fill="#fffdf7">PRIORITY</text>
+  <text x="832" y="44" class="mono" font-size="14" text-anchor="end" letter-spacing="1" fill="#fffdf7">BACKEND ENGINEER · RUBY ON RAILS</text>
+
+  <!-- from / to -->
+  <line x1="430" y1="70" x2="430" y2="170" stroke="#1f2328" stroke-width="2"/>
+  <line x1="0" y1="170" x2="860" y2="170" stroke="#1f2328" stroke-width="2"/>
+  <text x="28" y="98" class="cap">FROM</text>
+  <text x="28" y="130" class="sans" font-size="24" font-weight="700" fill="#1f2328">Akhileshwar Reddy</text>
+  <text x="28" y="154" class="sans" font-size="16" fill="#1f2328">Bangalore, India</text>
+  <text x="456" y="98" class="cap">TO</text>
+  <text x="456" y="140" class="sans" font-size="28" font-weight="700" fill="#1f2328">Production</text>
+
+  <!-- routing box + contents -->
+  <line x1="200" y1="170" x2="200" y2="330" stroke="#1f2328" stroke-width="2"/>
+  <line x1="0" y1="330" x2="860" y2="330" stroke="#1f2328" stroke-width="2"/>
+  <text x="100" y="262" class="sans" font-size="76" font-weight="800" text-anchor="middle" fill="#1f2328">6+</text>
+  <text x="100" y="296" class="sans" font-size="15" font-weight="700" letter-spacing="5" text-anchor="middle" fill="#1f2328">YEARS</text>
+
+  <text x="226" y="198" class="cap">CONTENTS</text>
+  <text x="226" y="222" class="sans" font-size="17" fill="#1f2328">Ruby on Rails services for logistics and HR/benefits SaaS</text>
+  <text x="226" y="256" class="cap">PACKED WITH</text>
+  <text x="226" y="278" class="mono" font-size="14" fill="#1f2328">RUBY · RAILS · POSTGRESQL · REDIS · SIDEKIQ · NODE.JS</text>
+  <text x="226" y="304" class="cap">SHIPS VIA</text>
+  <text x="226" y="324" class="mono" font-size="14" fill="#1f2328" dy="-2">DOCKER · GCP · AWS · GITLAB CI/CD · CLAUDE CODE</text>
+
+  <!-- barcode + delivery -->
+  <g fill="#1f2328">
+    <rect x="28" y="348" width="5" height="52"/>
+    <rect x="37" y="348" width="4" height="52"/>
+    <rect x="43" y="348" width="3" height="52"/>
+    <rect x="48" y="348" width="5" height="52"/>
+    <rect x="57" y="348" width="3" height="52"/>
+    <rect x="63" y="348" width="5" height="52"/>
+    <rect x="71" y="348" width="4" height="52"/>
+    <rect x="79" y="348" width="3" height="52"/>
+    <rect x="84" y="348" width="5" height="52"/>
+    <rect x="92" y="348" width="5" height="52"/>
+    <rect x="99" y="348" width="4" height="52"/>
+    <rect x="105" y="348" width="3" height="52"/>
+    <rect x="110" y="348" width="2" height="52"/>
+    <rect x="115" y="348" width="3" height="52"/>
+    <rect x="122" y="348" width="3" height="52"/>
+    <rect x="129" y="348" width="4" height="52"/>
+    <rect x="135" y="348" width="5" height="52"/>
+    <rect x="144" y="348" width="4" height="52"/>
+    <rect x="150" y="348" width="3" height="52"/>
+    <rect x="155" y="348" width="5" height="52"/>
+    <rect x="164" y="348" width="3" height="52"/>
+    <rect x="170" y="348" width="5" height="52"/>
+    <rect x="178" y="348" width="4" height="52"/>
+    <rect x="186" y="348" width="3" height="52"/>
+    <rect x="191" y="348" width="5" height="52"/>
+    <rect x="199" y="348" width="5" height="52"/>
+    <rect x="206" y="348" width="4" height="52"/>
+    <rect x="212" y="348" width="3" height="52"/>
+    <rect x="217" y="348" width="2" height="52"/>
+    <rect x="222" y="348" width="3" height="52"/>
+    <rect x="229" y="348" width="3" height="52"/>
+    <rect x="236" y="348" width="4" height="52"/>
+    <rect x="242" y="348" width="5" height="52"/>
+    <rect x="251" y="348" width="4" height="52"/>
+    <rect x="257" y="348" width="3" height="52"/>
+    <rect x="262" y="348" width="5" height="52"/>
+    <rect x="271" y="348" width="3" height="52"/>
+    <rect x="277" y="348" width="5" height="52"/>
+    <rect x="285" y="348" width="4" height="52"/>
+    <rect x="293" y="348" width="3" height="52"/>
+    <rect x="298" y="348" width="5" height="52"/>
+    <rect x="306" y="348" width="5" height="52"/>
+    <rect x="313" y="348" width="4" height="52"/>
+    <rect x="319" y="348" width="3" height="52"/>
+    <rect x="324" y="348" width="2" height="52"/>
+    <rect x="329" y="348" width="3" height="52"/>
+    <rect x="336" y="348" width="3" height="52"/>
+    <rect x="343" y="348" width="4" height="52"/>
+    <rect x="349" y="348" width="5" height="52"/>
+    <rect x="358" y="348" width="4" height="52"/>
+    <rect x="364" y="348" width="3" height="52"/>
+    <rect x="369" y="348" width="5" height="52"/>
+    <rect x="378" y="348" width="3" height="52"/>
+    <rect x="384" y="348" width="5" height="52"/>
+    <rect x="392" y="348" width="4" height="52"/>
+    <rect x="400" y="348" width="3" height="52"/>
+    <rect x="405" y="348" width="5" height="52"/>
+    <rect x="413" y="348" width="5" height="52"/>
+    <rect x="420" y="348" width="4" height="52"/>
+    <rect x="426" y="348" width="3" height="52"/>
+    <rect x="431" y="348" width="2" height="52"/>
+    <rect x="436" y="348" width="3" height="52"/>
+    <rect x="443" y="348" width="3" height="52"/>
+    <rect x="450" y="348" width="4" height="52"/>
+    <rect x="456" y="348" width="5" height="52"/>
+    <rect x="465" y="348" width="4" height="52"/>
+    <rect x="471" y="348" width="3" height="52"/>
+    <rect x="476" y="348" width="5" height="52"/>
+    <rect x="485" y="348" width="3" height="52"/>
+    <rect x="491" y="348" width="5" height="52"/>
+    <rect x="499" y="348" width="4" height="52"/>
+    <rect x="507" y="348" width="3" height="52"/>
+    <rect x="512" y="348" width="5" height="52"/>
+    <rect x="520" y="348" width="5" height="52"/>
+    <rect x="527" y="348" width="4" height="52"/>
+    <rect x="533" y="348" width="3" height="52"/>
+    <rect x="538" y="348" width="2" height="52"/>
+  </g>
+  <text x="28" y="422" class="mono" font-size="13" letter-spacing="3" fill="#1f2328">GITHUB.COM/AKHILESHWARREDDY</text>
+  <line x1="580" y1="330" x2="580" y2="438" stroke="#1f2328" stroke-width="2"/>
+  <text x="604" y="358" class="cap">DELIVER TO</text>
+  <text x="604" y="384" class="mono" font-size="14" fill="#1f2328">linkedin.com/in/</text>
+  <text x="604" y="404" class="mono" font-size="14" fill="#1f2328">akhileshwarreddy</text>
+
+  <!-- stamp -->
+  <g class="stamp">
+    <rect x="698" y="88" width="146" height="66" rx="10" fill="none" stroke="#c62828" stroke-width="4"/>
+    <rect x="705" y="95" width="132" height="52" rx="6" fill="none" stroke="#c62828" stroke-width="1.5"/>
+    <text x="771" y="116" class="sans" font-size="11" font-weight="800" letter-spacing="3" text-anchor="middle" fill="#c62828">SHIPPED FROM</text>
+    <text x="771" y="138" class="sans" font-size="16" font-weight="800" letter-spacing="2" text-anchor="middle" fill="#c62828">BANGALORE</text>
+  </g>
+</svg>
